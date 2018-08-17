@@ -1,1 +1,1 @@
-console.log('Testing')
+export * from './entities'
