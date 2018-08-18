@@ -6,4 +6,3 @@ var UserFriend_1 = require("./UserFriend");
 exports.UserFriend = UserFriend_1.UserFriend;
 var UserBlock_1 = require("./UserBlock");
 exports.UserBlock = UserBlock_1.UserBlock;
-//# sourceMappingURL=index.js.map

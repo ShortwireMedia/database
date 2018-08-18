@@ -29,4 +29,3 @@ UserBlock = __decorate([
     typeorm_1.Entity()
 ], UserBlock);
 exports.UserBlock = UserBlock;
-//# sourceMappingURL=UserBlock.js.map

@@ -29,4 +29,3 @@ UserFriend = __decorate([
     typeorm_1.Entity()
 ], UserFriend);
 exports.UserFriend = UserFriend;
-//# sourceMappingURL=UserFriend.js.map

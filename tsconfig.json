@@ -6,10 +6,11 @@
     "rootDir": "src",
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
+    "declaration": true,
     "lib": [
       "es6"
     ],
-    "sourceMap": true
+    "sourceMap": false
   },
   "exclude": [
     "node_modules",
